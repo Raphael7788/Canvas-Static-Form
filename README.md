@@ -1,5 +1,5 @@
-ENGLISH:
 # Canvas-Static-Form
+ENGLISH:
 This is a HTML5 Canvas in Static Form
 
 FRENCH:
